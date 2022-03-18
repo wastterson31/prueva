@@ -7,5 +7,7 @@ prueba
 
 ## imagene numero 1
 ![nosale](img/prueba.jpeg)
+# nose
+- hola mundo como esta
 
 
